@@ -1,1 +1,3 @@
 # Poisson-Distribution-Exploration
+
+In this project, I explore various properties of the Poisson Distribution. Using the stats module in scipy, I perform various probabilistic calculations, including demonstrations of the probability mass function (PMF), the cumulative density function (CDF), and the probability point function (PPF). I show how we can create random variate samples to model discrepancies between theoretical values and real-world examples and how these differences disappear under the Law of Large Numbers. The project is carried out in Jupyter and integrates LaTeX to express the mathematical formulas that performed by pythonic functions.
